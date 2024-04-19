@@ -1,0 +1,25 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+    <info name="ProjectE - [Effects] Light Fix" author="foreiger26" version="1.0.0" type="script"/>
+
+	<oop>true</oop>
+
+	<!-- 
+		@classlib.lua
+		@async.lua
+		@author:sbx320
+	-->
+	<script src="packages/classlib.lua" type="shared"/>
+	<script src="packages/async.lua" type="shared"/>
+
+    <!-- 
+        @set.lua
+        @desc: set's settings from the night lightning.
+    -->
+    <script src="set.lua" type="client" />
+
+    <!-- @components -->
+    <file src="components/light_disable.fx" type="client" />
+</meta>

@@ -1,0 +1,13 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+    <script src="client/render.lua" type="client" cache="false"/>
+	
+	<script src="shared/shared.lua" type="shared" cache="false"/>
+	
+    <script src="server/events.lua" type="server"/>
+	<script src="server/server.lua" type="server"/>
+	
+	<export function="isPrivateVehicle" type="client"/>
+</meta>

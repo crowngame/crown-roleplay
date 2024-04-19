@@ -1,0 +1,15 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<script src="async.lua" type="shared" cache="false"/>
+	<script src="shared.lua" type="shared" cache="false"/>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server"/>
+	<script src="core.lua" type="server"/>
+	
+	<export function="loadVIP" type="server"/>
+	<export function="addVIP" type="server"/>
+	
+	<oop>true</oop>
+</meta>

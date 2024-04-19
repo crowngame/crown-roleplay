@@ -1,0 +1,73 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<script src="shared.lua" type="shared" cache="false"/>
+	<script src="c_editor.lua" type="client" cache="false"/>
+	
+	<script src="c_oxygen.lua" type="client" cache="false"/>
+	
+	<script src="c_hud1.lua" type="client" cache="false"/>
+	<script src="c_hud2.lua" type="client" cache="false"/>
+	<script src="c_hud3.lua" type="client" cache="false"/>
+	<script src="c_hud4.lua" type="client" cache="false"/>
+	<script src="c_hud5.lua" type="client" cache="false"/>
+    
+	<script src="c_speedo1.lua" type="client" cache="false"/>
+    <script src="c_speedo2.lua" type="client" cache="false"/>
+    <script src="c_speedo3.lua" type="client" cache="false"/>
+	
+	<script src="server.lua" type="server"/>
+	
+	<file src="images/hunger.png"/>
+	<file src="images/level.png"/>
+	<file src="images/speedo.png"/>
+	<file src="images/stamina.png"/>
+	<file src="images/thirst.png"/>
+	
+	<file src="images/weapons/0.png"/>
+    <file src="images/weapons/1.png"/>
+    <file src="images/weapons/2.png"/>
+    <file src="images/weapons/3.png"/>
+    <file src="images/weapons/4.png"/>
+    <file src="images/weapons/5.png"/>
+    <file src="images/weapons/6.png"/>
+    <file src="images/weapons/7.png"/>
+    <file src="images/weapons/8.png"/>
+    <file src="images/weapons/9.png"/>
+    <file src="images/weapons/10.png"/>
+    <file src="images/weapons/11.png"/>
+    <file src="images/weapons/12.png"/>
+    <file src="images/weapons/14.png"/>
+    <file src="images/weapons/15.png"/>
+    <file src="images/weapons/16.png"/>
+    <file src="images/weapons/17.png"/>
+    <file src="images/weapons/18.png"/>
+    <file src="images/weapons/22.png"/>
+    <file src="images/weapons/23.png"/>
+    <file src="images/weapons/24.png"/>
+    <file src="images/weapons/25.png"/>
+    <file src="images/weapons/26.png"/>
+    <file src="images/weapons/27.png"/>
+    <file src="images/weapons/28.png"/>
+    <file src="images/weapons/29.png"/>
+    <file src="images/weapons/30.png"/>
+    <file src="images/weapons/31.png"/>
+    <file src="images/weapons/32.png"/>
+    <file src="images/weapons/33.png"/>
+    <file src="images/weapons/34.png"/>
+    <file src="images/weapons/35.png"/>
+    <file src="images/weapons/36.png"/>
+    <file src="images/weapons/37.png"/>
+    <file src="images/weapons/38.png"/>
+    <file src="images/weapons/39.png"/>
+    <file src="images/weapons/40.png"/>
+    <file src="images/weapons/41.png"/>
+    <file src="images/weapons/42.png"/>
+    <file src="images/weapons/43.png"/>
+    <file src="images/weapons/44.png"/>
+    <file src="images/weapons/45.png"/>
+    <file src="images/weapons/46.png"/>
+	
+	<oop>true</oop>
+</meta>

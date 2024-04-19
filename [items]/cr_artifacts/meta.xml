@@ -1,0 +1,85 @@
+﻿<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<info author="Exciter" type="script" description="Artifacts System: Handles artifacts (things players can wear that are not clothes)"/>
+
+	<script src="c_replace.lua" type="client"/>
+	<script src="c_artifacts.lua" type="client"/>
+	<script src="s_artifacts.lua" type="server"/>
+	<script src="g_artifacts.lua" type="client"/>
+	<script src="g_artifacts.lua" type="server"/>
+	<file src="texreplace.fx"></file>
+
+	<export function="getArtifacts" type="server" />
+	<export function="getArtifacts" type="client" />
+	<export function="countPlayerArtifacts" type="server" />
+	<export function="getPlayerArtifacts" type="server" />
+	<export function="isPlayerWearingArtifact" type="server" />
+	<export function="setPlayerArtifactProperty" type="server" />
+	
+	<!-- Credit for models goes to.. Immersion Gaming Scripting Team. Used with permission (ref. RPP contract) -->	
+	<!-- Fishing Rod -->
+	<file src="models/rod.txd"/>
+	<file src="models/rod.dff"/>
+	<!-- Motocross Helmet -->
+	<file src="models/pro.dff"/>
+	<file src="models/pro.txd"/>
+	<file src="models/helmet.col"/>
+	<!-- Biker Helmet -->
+	<file src="models/bikerhelmet.dff"/>
+	<file src="models/bikerhelmet.txd"/>
+	<!-- Hockey Mask -->
+	<file src="models/hockeymask.dff"/>
+	<file src="models/hockeymask.txd"/>
+	<!-- Monster Mask -->
+	<file src="models/monstermask.dff"/>
+	<file src="models/monstermask.txd"/>
+	<!-- Monkey Mask -->
+	<file src="models/monkeymask.dff"/>
+	<file src="models/monkeymask.txd"/>
+	<!-- SMonkey Mask -->
+	<file src="models/smonkeymask.dff"/>
+	<file src="models/smonkeymask.txd"/>
+	<!-- Elektro Mask -->
+	<file src="models/elektromask.dff"/>
+	<file src="models/elektromask.txd"/>
+	<!-- Katil Mask -->
+	<file src="models/katilmask.dff"/>
+	<file src="models/katilmask.txd"/>
+	<!-- Carnival Mask -->
+	<file src="models/carnivalmask.dff"/>
+	<file src="models/carnivalmask.txd"/>
+	<!-- İronman Mask -->
+	<file src="models/ironmanmask.dff"/>
+	<file src="models/ironmanmask.txd"/>
+	<!-- Cap -->
+	<file src="models/cap.dff"/>
+	<file src="models/cap.txd"/>
+	<!-- Glass -->
+	<file src="models/glass.dff"/>
+	<file src="models/glass.txd"/>
+	<!-- kese Mask -->
+	<file src="models/kesemask.dff"/>
+	<file src="models/kesemask.txd"/>
+	<!-- Full Face Helmet -->
+	<file src="models/fullfacehelmet.dff"/>
+	<file src="models/fullfacehelmet.txd"/>
+	<!-- Gas Mask -->
+	<file src="models/gasmask.dff"/>
+	<file src="models/gasmask.txd"/>
+	<!-- Dufflebag -->
+	<file src="models/dufflebag.dff"/>
+	<file src="models/dufflebag.txd"/>
+	<!-- Kevlar -->
+		<file src="models/PoliceGlasses3.dff"/>
+	<file src="models/PoliceGlasses2.dff"/>
+	<file src="models/PoliceGlasses1.dff"/>
+	<file src="models/PoliceGlasses.txd"/>
+	
+		<!-- Kevlar -->
+	<file src="models/kevlar.dff"/>
+	<file src="models/kevlar.txd"/>
+
+	<file src="textures/medicbag.png"/>
+</meta>

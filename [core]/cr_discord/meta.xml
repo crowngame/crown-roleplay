@@ -1,0 +1,11 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<min_mta_version client="1.5.5" server="1.5.5"/>
+	
+	<script src="rich_presence.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server"/>
+
+	<export function="sendMessage" type="server"/>
+</meta>

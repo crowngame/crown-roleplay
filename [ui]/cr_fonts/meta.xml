@@ -1,0 +1,65 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+    <oop>true</oop>
+	<min_mta_version client="1.5.5" server="1.5.5"></min_mta_version>
+	
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="icons.lua" type="client" cache="false"/>
+	
+	<file src="files/Bebas.ttf"/>
+	<file src="files/BebasNeueBold.otf"/>
+	<file src="files/BebasNeueLight.otf"/>
+	<file src="files/BebasNeueRegular.otf"/>
+	
+	<file src="files/license.ttf"/>
+	<file src="files/Pricedown.ttf"/>
+	<file src="files/Bankgothic.ttf"/>
+	<file src="files/SignPainter.ttf"/>
+	<file src="files/SweetSixteen.ttf"/>
+	
+    <file src="files/Roboto-Medium.ttf"/>
+    <file src="files/Roboto-Bold.ttf"/>
+    <file src="files/Roboto-Black.ttf"/>
+    <file src="files/Roboto-Regular.ttf"/>
+    <file src="files/Roboto-Light-Italic.ttf"/>
+    <file src="files/Roboto-Light.ttf"/>
+	
+	<file src="files/in-bold.ttf"/>
+	<file src="files/in-elight.ttf"/>
+    <file src="files/in-elightitalic.ttf"/>
+    <file src="files/in-italic.ttf"/>
+    <file src="files/in-light.ttf"/>
+	<file src="files/in-lightitalic.ttf"/>
+	<file src="files/in-regular.ttf"/>
+    <file src="files/in-thin.ttf"/>
+    <file src="files/in-thinitalic.ttf"/>
+	<file src="files/in-medium.ttf"/>
+	
+	<file src="files/sf-bold.ttf"/>
+	<file src="files/sf-bolditalic.ttf"/>
+	<file src="files/sf-heavy.ttf"/>
+	<file src="files/sf-heavyitalic.ttf"/>
+	<file src="files/sf-italic.ttf"/>
+	<file src="files/sf-light.ttf"/>
+	<file src="files/sf-lightitalic.ttf"/>
+	<file src="files/sf-medium.ttf"/>
+	<file src="files/sf-mediumitalic.ttf"/>
+	<file src="files/sf-regular.ttf"/>
+	<file src="files/sf-semibold.ttf"/>
+	<file src="files/sf-semibolditalic.ttf"/>
+	
+	<file src="files/FontAwesome.ttf"/>
+	<file src="files/FontAwesomeBrand.ttf"/>
+	<file src="files/FontAwesomeRegular.otf"/>
+	
+	<file src="files/UbuntuBold.ttf"/>
+	<file src="files/UbuntuLight.ttf"/>
+	<file src="files/UbuntuRegular.ttf"/>
+	
+    <export function="getFont" type="client"/>
+	<export function="getIcon" type="client"/>
+	
+	<download_priority_group>998</download_priority_group>
+</meta>

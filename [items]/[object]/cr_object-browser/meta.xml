@@ -1,0 +1,8 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+    <info author="eXo|Mr.Hankey" name="Object Browser" version="0.9.1" type="misc"/>
+    <script src="ob.lua" type="client" />
+    <config src="obj.xml" type="client"/>
+</meta>

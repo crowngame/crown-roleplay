@@ -1,0 +1,9 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<script src="arackiralama.lua" type="client" protected="true"/>
+	<script src="arackiralama_s.lua" type="server"/>
+
+	<map src="arackiralama.map"/>
+</meta>

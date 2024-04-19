@@ -1,0 +1,13 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<info author="Freezy - OG MTA Scripting Team" type="script" description="Interiors Management"/>
+	<script src="s_interior_manager.lua" type="server" />
+	<script src="c_interior_manager.lua" type="client" />
+	<script src="s_interior_logs.lua" type="server" /> 
+	<export function="addInteriorLogs" type="server"/>
+
+	<script src="defines_g.lua" type="server" />
+	<script src="defines_g.lua" type="client" />
+</meta>

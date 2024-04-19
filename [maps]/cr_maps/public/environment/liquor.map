@@ -1,0 +1,21 @@
+<map edf:definitions="editor_main">
+    <object id="object (kb_table_chairs1) (1)" breakable="true" interior="0" alpha="255" model="1825" doublesided="false" scale="1" dimension="0" posX="2139.2" posY="-1761.2" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_Dumpster2) (1)" breakable="true" interior="0" alpha="255" model="1344" doublesided="false" scale="1" dimension="0" posX="2128" posY="-1767.8" posZ="13.4" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (CJ_BIN1) (1)" breakable="true" interior="0" alpha="255" model="1359" doublesided="false" scale="1" dimension="0" posX="2136" posY="-1761.7" posZ="13.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_PIZZA_TABLE03) (1)" breakable="true" interior="0" alpha="255" model="2764" doublesided="false" scale="1" dimension="0" posX="2133.7" posY="-1761.1" posZ="13" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_OPEN_SIGN_2) (1)" breakable="true" interior="0" alpha="255" model="2714" doublesided="false" scale="1" dimension="0" posX="2132" posY="-1762" posZ="14.6" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (CJ_BURG_CHAIR_NA) (1)" breakable="true" interior="0" alpha="255" model="2807" doublesided="false" scale="1" dimension="0" posX="2134.7" posY="-1761.3" posZ="13.1" rotX="0" rotY="0" rotZ="300"></object>
+    <object id="object (CJ_BURG_CHAIR_NA) (2)" breakable="true" interior="0" alpha="255" model="2807" doublesided="false" scale="1" dimension="0" posX="2132.6001" posY="-1761.3" posZ="13.1" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (lampost_coast) (1)" breakable="true" interior="0" alpha="255" model="1223" doublesided="false" scale="1" dimension="0" posX="2125.3" posY="-1763.2" posZ="12.6" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (sfx_winplant07) (2)" breakable="true" interior="0" alpha="255" model="3806" doublesided="false" scale="1" dimension="0" posX="2128" posY="-1763.4" posZ="13.4" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (lampost_coast) (2)" breakable="true" interior="0" alpha="255" model="1223" doublesided="false" scale="1" dimension="0" posX="2057.8999" posY="-1803" posZ="-16.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_WINE_BOUNCE) (1)" breakable="true" interior="0" alpha="255" model="1520" doublesided="false" scale="1" dimension="0" posX="2131.8999" posY="-1762.3" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_CIGGY) (1)" breakable="true" interior="0" alpha="255" model="1485" doublesided="false" scale="1" dimension="0" posX="2131.6001" posY="-1762.1" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_WINE_BOUNCE) (3)" breakable="true" interior="0" alpha="255" model="1520" doublesided="false" scale="1" dimension="0" posX="2131.8" posY="-1762.3" posZ="12.6" rotX="87.995" rotY="0" rotZ="269.996"></object>
+    <object id="object (sm_bevhiltreepv) (1)" breakable="true" interior="0" alpha="255" model="717" doublesided="false" scale="1" dimension="0" posX="2143.3" posY="-1759.1" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lampost_coast) (3)" breakable="true" interior="0" alpha="255" model="1223" doublesided="false" scale="1" dimension="0" posX="2137.1006" posY="-1758.2002" posZ="12.6" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (driveschl_daylite) (1)" breakable="true" interior="0" alpha="255" model="14541" doublesided="false" scale="1" dimension="0" posX="2128.57324" posY="-1746.94434" posZ="13.15495" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (htlcnpy02_lvs) (2)" breakable="true" interior="0" alpha="255" model="3432" doublesided="false" scale="1" dimension="0" posX="2135.0977" posY="-1763.8" posZ="16.1" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (CJ_PHONE_KIOSK2) (1)" breakable="true" interior="0" alpha="255" model="1346" doublesided="false" scale="1" dimension="0" posX="2127.7" posY="-1770.3" posZ="13.9" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (phonesign) (1)" breakable="true" interior="0" alpha="255" model="1234" doublesided="false" scale="1" dimension="0" posX="2124.7" posY="-1759.9" posZ="14" rotX="0" rotY="0" rotZ="326"></object>
+</map>

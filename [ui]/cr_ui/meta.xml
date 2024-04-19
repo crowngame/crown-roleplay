@@ -1,0 +1,48 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<script src="client.lua" type="client" cache="false"/>
+	
+	<script src="ui/animate.lua" type="client" cache="false"/>
+	<script src="ui/color.lua" type="client" cache="false"/>
+	<script src="ui/roundedRectangle.lua" type="client" cache="false"/>
+	<script src="ui/spinner.lua" type="client" cache="false"/>
+	
+	<file src="public/images/vignette.png"/>
+	<file src="public/images/logos/duotone.png"/>
+	<file src="public/images/logos/light.png"/>
+	<file src="public/images/logos/regular.png"/>
+	<file src="public/images/logos/solid.png"/>
+	<file src="public/images/logos/thin.png"/>
+	
+	<file src="public/sounds/key.mp3"/>
+	
+	<export function="animate" type="client"/>
+	<export function="resetAnimateData" type="client"/>
+	<export function="resetAnimateKey" type="client"/>
+	
+	<export function="reMap" type="client"/>
+	<export function="resp" type="client"/>
+	<export function="respc" type="client"/>
+	<export function="abs" type="client"/>
+	<export function="absX" type="client"/>
+	<export function="absY" type="client"/>
+	<export function="conv" type="client"/>
+	<export function="convY" type="client"/>
+	
+	<export function="drawShadowText" type="client"/>
+	<export function="drawFramedText" type="client"/>
+	<export function="drawBorderedText" type="client"/>
+	<export function="drawRoundedRectangle" type="client"/>
+	<export function="drawGradient" type="client"/>
+	<export function="drawSpinner" type="client"/>
+	
+	<export function="isInBox" type="client"/>
+	
+	<export function="getServerColor" type="client"/>
+	<export function="rgbaUnpack" type="client"/>
+	<export function="rgba" type="client"/>
+	
+	<download_priority_group>997</download_priority_group>
+</meta>

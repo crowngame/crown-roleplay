@@ -1,0 +1,60 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+    <script src="c_createObject.lua" type="client"/>
+    <script src="s_cleanup.lua" type="server"/>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"/>
+    <script src="mapEditorScriptingExtension_c.lua" type="client"/>
+	<script src="towing/s_remove.lua" type="server"/>
+	
+	<map src="towing/RT_3_withoutgates.map" dimension="0"/>
+	
+	<map src="public/GroveStreet.map" dimension="0"/>
+	
+	<script src="public/environment/Ganton.lua" type="client"/>
+	<map src="public/environment/banka.map" dimension="0"/>
+	<map src="public/environment/basket_sahasi.map" dimension="0"/>
+	<map src="public/environment/bbc.map" dimension="0"/>
+	<map src="public/environment/beach.map" dimension="0"/>
+	<map src="public/environment/cete.map" dimension="0"/>
+	<map src="public/environment/cete2.map" dimension="0"/>
+	<map src="public/environment/dodes.map" dimension="0"/>
+	<map src="public/environment/el_corona.map" dimension="0"/>
+	<map src="public/environment/el_corona2.map" dimension="0"/>
+	<map src="public/environment/galeri.map" dimension="0"/>
+	<map src="public/environment/gangmap.map" dimension="0"/>
+	<map src="public/environment/ganton_remover.map" dimension="0"/>
+	<map src="public/environment/glenpark.map" dimension="0"/>
+	<map src="public/environment/hastane.map" dimension="0"/>
+	<map src="public/environment/hediye.map" dimension="0"/>
+	<map src="public/environment/hood_nowflex.map" dimension="0"/>
+	<map src="public/environment/hood_west.map" dimension="0"/>
+	<map src="public/environment/hotel.map" dimension="0"/>
+	<map src="public/environment/idlewood.map" dimension="0"/>
+	<map src="public/environment/ikinciel.map" dimension="0"/>
+	<map src="public/environment/konser.map" dimension="0"/>
+	<map src="public/environment/liquor.map" dimension="0"/>
+	<map src="public/environment/lspd_train.map" dimension="0"/>
+	<map src="public/environment/lvcartel.map" dimension="0"/>
+	<map src="public/environment/mekanik.map" dimension="0"/>
+	<map src="public/environment/mermi.map" dimension="0"/>
+	<map src="public/environment/modifiyesokagi.map" dimension="0"/>
+	<map src="public/environment/motel.map" dimension="0"/>
+	<map src="public/environment/parkinglot.map" dimension="0"/>
+	<map src="public/environment/pizzastack.map" dimension="0"/>
+	<map src="public/environment/rshaulgasstation.map" dimension="0"/>
+	<map src="public/environment/RSHaulNew.map" dimension="0"/>
+	<map src="public/environment/sahil_map.map" dimension="0"/>
+	<map src="public/environment/skatepark.map" dimension="0"/>
+	<map src="public/environment/starfish_cafe.map" dimension="0"/>
+	<map src="public/environment/trailers.map" dimension="0"/>
+	<map src="public/environment/trash_street.map" dimension="0"/>
+	<map src="public/environment/YalcinDonate.map" dimension="0"/>
+	
+	<map src="public/Saints.map" dimension="0"/>
+	<map src="public/GuvenlikKameralari.map" dimension="0"/>
+	<map src="public/IrishBar.map" dimension="0"/>
+	<map src="public/Giseler.map" dimension="0"/>
+	<map src="public/Ext-IGS/igs.map" dimension="0"/>
+</meta>

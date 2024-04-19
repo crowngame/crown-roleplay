@@ -1,0 +1,21 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<oop>true</oop>
+	
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="shared.lua" type="shared" cache="false"/>
+	<script src="server.lua" type="server"/>
+	
+	<file src="images/1.png"/>
+	<file src="images/2.png"/>
+	<file src="images/3.png"/>
+	<file src="images/4.png"/>
+	<file src="images/5.png"/>
+	
+	<export function="getPlateDesigns" type="client"/>
+	<export function="getPlateDesigns" type="server"/>
+	
+	<min_mta_version client="1.3.0-9.04431"/>
+</meta>

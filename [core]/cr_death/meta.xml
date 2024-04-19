@@ -1,0 +1,30 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+    <!--
+	
+		@author:Alern
+		@description:essentials
+		
+	-->
+
+	
+    <script src="server.lua" type="server" />
+    <script src="client.lua" type="client" cache="false" />
+	
+    <script src="counterped/server.lua" type="server" />
+    <script src="counterped/client.lua" type="client" cache="false" />
+    
+    <script src="assist/server.lua" type="server" />
+    <script src="assist/client.lua" type="client" />
+    
+    <script src="stretcher/server.lua" type="server" />
+    <script src="stretcher/client.lua" type="client" cache="false" />
+  
+	<file src="components/hurtmale.mp3"/>
+	<file src="components/hurtfemale.mp3"/>
+  
+    <oop>true</oop>
+    <min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000"></min_mta_version>
+</meta>

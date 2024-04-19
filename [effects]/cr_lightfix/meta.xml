@@ -1,0 +1,8 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+    <info name="object_light_fix" version="0.0.1" author="Ren712" type="script" />
+    <script src="c_light_disable.lua" type="client" />
+    <file src="light_disable.fx" type="client" />
+</meta>

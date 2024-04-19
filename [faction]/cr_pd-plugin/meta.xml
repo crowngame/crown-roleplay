@@ -1,0 +1,10 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+   <script src="c_ustarama.lua" type="client" protected="true"/>
+    <script src="s_ustarama.lua" type="server" />
+    <script src="s_aracat.lua" type="server" />
+	<script src="c_aracat.lua" type="client" />
+    <min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000"></min_mta_version>
+</meta>

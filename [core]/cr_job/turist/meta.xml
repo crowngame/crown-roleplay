@@ -1,0 +1,8 @@
+﻿<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<script src="c_turist.lua" type="client" />
+	<script src="s_turist.lua" type="server" />
+	<script src="server.lua" type="server" />
+</meta>

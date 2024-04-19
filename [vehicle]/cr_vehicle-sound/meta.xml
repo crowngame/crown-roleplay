@@ -1,0 +1,22 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+    <script src="client.lua" type="client" cache="false"/>
+	
+    <file src="sounds/180sx.wav"/>
+    <file src="sounds/ae86.wav"/>
+    <file src="sounds/backfire1.wav"/>
+    <file src="sounds/backfire2.wav"/>
+    <file src="sounds/BlowoffCivic.wav"/>
+    <file src="sounds/civic.wav"/>
+    <file src="sounds/e92.wav"/>
+    <file src="sounds/gear.wav"/>
+    <file src="sounds/gtr34.wav"/>
+    <file src="sounds/gtr35.wav"/>
+    <file src="sounds/gtr2000.wav"/>
+    <file src="sounds/m5.wav"/>
+    <file src="sounds/rx8.wav"/>
+	
+	<oop>true</oop>
+</meta>

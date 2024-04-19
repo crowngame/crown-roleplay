@@ -1,0 +1,10 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+    <script src="c_funfair.lua" type="client" cache="false"/>
+    <script src="s_funfair.lua" type="server"/>
+    <script src="g_funfair.lua" type="server"/>
+	
+	<file src="donmedolap.col"/>
+</meta>

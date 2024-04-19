@@ -1,0 +1,97 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+    <info author="Freezy" type="script" description="vehicle"/>
+    
+    <oop>1</oop>
+    <script src="c_getVehicleType.lua" type="client"/>
+    
+    <script src="g_functions.lua" type="server"/>
+    <script src="s_Handling.lua" type="server"/>
+	
+	<script src="packages/async.lua" type="shared"/>
+    
+    <export function="isVehicleWindowUp" type="server"/>
+    <export function="hasVehicleWindows" type="server"/>
+    <export function="hasVehicleRoof" type="server"/>
+    <export function="hasVehiclePlates" type="server"/>
+    
+    <script src="g_functions.lua" type="client"/>
+    <export function="isVehicleWindowUp" type="client"/>
+    <export function="hasVehicleWindows" type="client"/>
+    <export function="hasVehicleRoof" type="client"/>
+    <export function="hasVehiclePlates" type="client"/>
+    <export function="isVehicleImpounded" type="client"/>
+    <export function="hasVehicleEngine" type="client"/>
+    <export function="hasVehicleLights" type="client"/>
+    
+    <script src="s_vergi.lua" type="server"/>
+    <script src="s_vehicle_system.lua" type="server"/>
+	
+	<export function="fDoorControl" type="client"/>
+	
+    <export function="createShopVehicle" type="server"/>
+    <export function="clearCharacterName" type="server"/>
+    <export function="getCharacterName" type="server"/>
+    <export function="getCharacterName" type="server"/>
+    <export function="reloadVehicle" type="server" http="true"/>
+    <export function="loadOneVehicle" type="server"/>
+    <export function="addSafe" type="server"/>
+    <export function="getSafe" type="server"/>
+    
+    <script src="c_vehicle_system.lua" type="client"/>
+	
+    <script src="s_windows.lua" type="server"/>
+    <script src="s_odometer.lua" type="server"/>
+    <script src="s_gps.lua" type="server"/>
+    
+    <script src="s_fbirancher.lua" type="server"/>
+	
+    <script src="s_seatbelt.lua" type="server"/>
+    
+    <script src="c_vehicle_rightclick.lua" type="client"/>
+    
+    <script src="g_doors.lua" type="server"/>
+    <script src="g_doors.lua" type="client"/>
+    <script src="c_doors.lua" type="client"/>
+    <script src="s_doors.lua" type="server"/>
+    
+    <script src="s_set_train.lua" type="server"/>
+    
+    <script src="s_vehicle_variant.lua" type="server"/>
+    <export function="getRandomVariant" type="server"/>
+    <export function="isValidVariant" type="server"/>
+    <script src="s_entry.lua" type="server"/>
+    <script src="c_entry.lua" type="client"/>
+    <script src="c_doors_custom.lua" type="client"/>
+    
+    <script src="s_sound.lua" type="server"/>
+    <script src="c_sound.lua" type="client"/>
+	
+	<script src="s_air.lua" type="server"/>
+    <script src="c_air.lua" type="client"/>
+	
+    <file src="sounds/airride.mp3"/>
+    <file src="sounds/braking.mp3"/>
+    <file src="sounds/engine.wav"/>
+    <file src="sounds/engine_off.mp3"/>
+    <file src="sounds/hb_off.mp3"/>
+    <file src="sounds/hb_on.mp3"/>
+    <file src="sounds/lock.mp3"/>
+    <file src="sounds/seatbelt.mp3"/>
+    <file src="sounds/seatbelt_warning.wav"/>
+    <file src="sounds/unlock.mp3"/>
+    <file src="sounds/window.mp3"/>
+    <file src="trainHorn.mp3"/>
+    
+    <script src="g_activity.lua" type="server"/>
+    <script src="g_activity.lua" type="client"/>
+    
+    <export function="isActive" type="client"/>
+    <export function="isActive" type="server"/>
+    
+    <export function="isProtected" type="client"/>
+    <export function="isProtected" type="server"/>
+    <min_mta_version server="1.3.4-0.00000" client="1.5.6-9.18728"></min_mta_version>
+</meta>

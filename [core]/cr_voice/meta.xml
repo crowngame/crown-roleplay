@@ -1,0 +1,13 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="shared.lua" type="shared" cache="false"/>
+    <script src="server.lua" type="server"/>
+	
+	<export function="getPlayerTalking" type="client"/>
+    
+	<min_mta_version server="1.5.4-0.00000" client="1.5.4-0.00000"/>
+    <oop>true</oop>
+</meta>

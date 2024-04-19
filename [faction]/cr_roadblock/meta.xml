@@ -1,0 +1,12 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<info author="Exciter" type="script" description="Roadblock System"/>
+
+	<script src="g_roadblocks.lua" type="server"/>
+	<script src="g_roadblocks.lua" type="client"/>
+	
+	<script src="c_roadblocks.lua" type="client"/>
+	<script src="s_roadblocks.lua" type="server"/>
+</meta>

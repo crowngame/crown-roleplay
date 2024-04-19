@@ -1,0 +1,9 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<info author="CourtezBoi" version="1.0" desc="A script connecting the in-game server to the Internal Affairs website." />
+	<oop>true</oop>
+
+	<script src="iag.lua" />
+</meta>

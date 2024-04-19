@@ -1,0 +1,12 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+    <oop>true</oop>
+    
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="server.lua" type="server"/>
+    
+    <file src="files/cuff.txd"/>
+    <file src="files/cuff.dff"/>
+</meta>

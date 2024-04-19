@@ -1,0 +1,20 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<script src="client/render.lua" type="client" cache="false"/>
+	<script src="client/social-media.lua" type="client" cache="false"/>
+    <script src="server/server.lua" type="server"/>
+	
+	<file src="public/lines.png"/>
+	<file src="public/sounds/discord.mp3"/>
+	<file src="public/sounds/error.mp3"/>
+	<file src="public/sounds/info.mp3"/>
+	<file src="public/sounds/success.mp3"/>
+	<file src="public/sounds/warning.mp3"/>
+    
+	<export function="addBox" type="shared"/>
+	<export function="isRenderInfobox" type="client"/>
+	
+	<oop>true</oop>
+</meta>

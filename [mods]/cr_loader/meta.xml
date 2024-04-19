@@ -1,0 +1,65 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<script src="settings.lua" type="client" cache="false"/>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="panel.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server"/>
+
+	<export function="getMods" type="client"/>
+	
+	<!-- MODLU ARAÇLAR -->
+	<file src="files/400.txd" model="400" download="false" isim="Cadillac Escalade"/>
+    <file src="files/400.dff" model="400" download="false" isim="Cadillac Escalade"/>
+	
+    <file src="files/529.txd" model="529" download="false" isim="Audi A7"/>
+    <file src="files/529.dff" model="529" download="false" isim="Audi A7"/>
+	
+    <file src="files/540.txd" model="540" download="false" isim="Volkswagen Passat"/>
+    <file src="files/540.dff" model="540" download="false" isim="Volkswagen Passat"/>
+	
+    <file src="files/490.txd" model="490" download="false" isim="Land Rover Range Rover"/>
+    <file src="files/490.dff" model="490" download="false" isim="Land Rover Range Rover"/>
+	
+    <file src="files/412.txd" model="412" download="false" isim="BMW M4"/>
+    <file src="files/412.dff" model="412" download="false" isim="BMW M4"/>
+	
+    <file src="files/474.txd" model="474" download="false" isim="Nissan GTR"/>
+    <file src="files/474.dff" model="474" download="false" isim="Nissan GTR"/>
+	
+    <file src="files/602.txd" model="602" download="false" isim="Mercedes AMG GTR"/>
+    <file src="files/602.dff" model="602" download="false" isim="Mercedes AMG GTR"/>
+	
+    <file src="files/527.txd" model="527" download="false" isim="BMW i8"/>
+    <file src="files/527.dff" model="527" download="false" isim="BMW i8"/>
+	
+    <file src="files/516.txd" model="516" download="false" isim="Mercedes Maybach"/>
+    <file src="files/516.dff" model="516" download="false" isim="Mercedes Maybach"/>
+	
+    <file src="files/479.txd" model="479" download="false" isim="Mercedes-Benz G63"/>
+    <file src="files/479.dff" model="479" download="false" isim="Mercedes-Benz G63"/>
+	
+	<file src="files/579.txd" model="579" download="false" isim="Modlu Huntley"/>
+    <file src="files/579.dff" model="579" download="false" isim="Modlu Huntley"/>
+	
+	
+	<!-- LSPD ARAÇLARI -->
+    <file src="files/596.txd" model="596" download="false" isim="Ford Crown Victoria Police Interceptor"/>
+    <file src="files/596.dff" model="596" download="false" isim="Ford Crown Victoria Police Interceptor"/>
+	
+    <file src="files/597.txd" model="597" download="false" isim="Ford Taurus Police"/>
+    <file src="files/597.dff" model="597" download="false" isim="Ford Taurus Police"/>
+	
+    <file src="files/598.txd" model="598" download="false" isim="Dodge Charger Pursuit"/>
+    <file src="files/598.dff" model="598" download="false" isim="Dodge Charger Pursuit"/>
+	
+    <file src="files/599.txd" model="599" download="false" isim="Ford Police Interceptor"/>
+    <file src="files/599.dff" model="599" download="false" isim="Ford Police Interceptor"/>
+	
+    <file src="files/563.txd" model="563" download="false" isim="LSPD Raindance"/>
+    <file src="files/563.dff" model="563" download="false" isim="LSPD Raindance"/>
+	
+    <file src="files/528.txd" model="528" download="false" isim="LSPD FBI Truck"/>
+    <file src="files/528.dff" model="528" download="false" isim="LSPD FBI Truck"/>
+</meta>

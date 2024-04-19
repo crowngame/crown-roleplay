@@ -1,0 +1,10 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<script src="s_player.lua" type="server" />
+	<script src="s_vehicle.lua" type="server" />
+	
+	<export function="saveVehicle" type="server"/>
+	<export function="saveVehicleMods" type="server"/>
+</meta>

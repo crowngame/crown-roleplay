@@ -1,0 +1,11 @@
+<map edf:definitions="editor_main">
+    <object id="object (dump1) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1227" scale="1" doublesided="false" collisions="true" posX="1425.1" posY="-1291" posZ="13.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (dump1) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="1227" scale="1" doublesided="false" collisions="true" posX="1422.7" posY="-1291" posZ="13.4" rotX="0" rotY="0" rotZ="0"></object>
+    <removeWorldObject id="removeWorldObject (dump1) (1)" radius="3.5940819" interior="0" model="1227" lodModel="0" posX="1439.8594" posY="-1323.7031" posZ="13.38281" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (dump1) (2)" radius="3.5940819" interior="0" model="1227" lodModel="0" posX="1425.5703" posY="-1317.9687" posZ="13.36719" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (dump1) (3)" radius="3.5940819" interior="0" model="1227" lodModel="0" posX="1415.6016" posY="-1299.1875" posZ="13.36719" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (Gen_doorEXT12) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1533" scale="1" doublesided="false" collisions="true" posX="1408.9" posY="-1298.197" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <removeWorldObject id="removeWorldObject (fireescapes2_lan2) (1)" radius="84.64743" interior="0" model="4738" lodModel="0" posX="1435.7969" posY="-1331.0469" posZ="24.55469" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (a51_plat) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="16322" scale="1" doublesided="false" collisions="true" posX="1408.6" posY="-1301.8" posZ="16.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ammotrn_obj) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="3066" scale="1" doublesided="false" collisions="true" posX="1418.5" posY="-1327.8" posZ="13.6" rotX="0" rotY="0" rotZ="0"></object>
+</map>

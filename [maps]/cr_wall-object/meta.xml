@@ -1,0 +1,8 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<info author="?" version="1.0.0" type="script" name="texture" description="https://sparrow-mta.blogspot.com" showInResourceBrowser="true" />
+	<script src="jeetdor.lua" type="client" />
+	<file src="jeetdor.txd" />
+</meta>

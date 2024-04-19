@@ -1,0 +1,8 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (lamppost3) (1)" radius="6.6149273" interior="-1" model="1226" lodModel="0" posX="1806.4297" posY="-1931.6016" posZ="16.375" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (lamppost3) (2)" radius="6.6149273" interior="-1" model="1226" lodModel="0" posX="1774.7578" posY="-1931.3125" posZ="16.375" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (DEAD_TREE_7) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="834" scale="1" doublesided="false" collisions="true" posX="1288.8" posY="-2355.5" posZ="16.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fenceshit) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="982" scale="1" doublesided="false" collisions="true" posX="1318.9" posY="-2358.3" posZ="13.2" rotX="0" rotY="0" rotZ="349.75"></object>
+    <object id="object (fenceshit3) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="983" scale="1" doublesided="false" collisions="true" posX="1321.2" posY="-2342.5" posZ="13.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (veg_palm01) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="648" scale="1" doublesided="false" collisions="true" posX="1315.4" posY="-2364.6001" posZ="12.5" rotX="0" rotY="0" rotZ="294.5"></object>
+</map>

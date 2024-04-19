@@ -1,0 +1,15 @@
+﻿<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<map src="bar.map" dimension="0"></map>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+    <script src="gringo.lua" type="client" />
+    <file src="gringo.txd" />
+    <file src="gringo.dff" />
+    <file src="gringo.col" />
+	<script src="client.lua" type="client"/>
+	<file src="las69str2.bmp" type="client"/>
+	<file src="shader.fx" type="client"/>
+</meta>

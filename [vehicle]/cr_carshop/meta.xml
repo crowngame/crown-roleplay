@@ -1,0 +1,21 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<info author="Freezy - Crown Roleplay Scripting Team" type="vehicle script" description="Car Shop System"/>
+	
+	<export function="getVehiclePrice" type="server" http="true" />
+	<export function="getPriceFromModel" type="server" http="true" />
+	
+	<script src="s_shop.lua" type="server" />
+	<script src="g_shops.lua" type="server" />
+	<script src="g_shops.lua" type="client" />
+	<script src="c_shop.lua" type="client" />
+	
+	<export function="isForSale" type="server" http="true" />
+	<export function="getCarShops" type="client" />
+	<export function="getCarShops" type="server" />
+	
+	<file src="img/whitedot.png"/>
+	<map src="belgica-boatcrusher/belgica-boatcrusher.map" dimension="0"></map>
+</meta>

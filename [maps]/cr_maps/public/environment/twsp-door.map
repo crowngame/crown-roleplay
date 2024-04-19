@@ -1,0 +1,3 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (Gen_doorSHOP3) (1)" radius="3.4566965" interior="-1" model="1522" lodModel="0" posX="2105.9219" posY="-1807.25" posZ="12.51563" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

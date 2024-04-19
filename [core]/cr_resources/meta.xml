@@ -1,0 +1,30 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<min_mta_version server="1.3.4-0.00000" client="1.5.6-9.18728"></min_mta_version>
+    
+    <script src="client.lua" type="client" cache="false" />
+    
+    <file src="BizNote.ttf" />
+    <file src="inv_close.mp3" />
+    <file src="inv_open.mp3" />
+    <file src="inv_toggle.mp3" />
+    <file src="item_drop.mp3" />
+    <file src="hb_on.mp3" />
+    <file src="hb_off.mp3" />
+    <file src="nametags0.ttf" />
+    <file src="nametags1.ttf" />
+    <file src="nametags2.ttf" />
+    <file src="panel_tooltip.ttf" />
+    <file src="toggle.mp3" />
+    <file src="loading.jpg" />
+    <file src="window_title.jpg" />
+    <file src="window_body.jpg" />
+    <file src="window_body.png" />
+    <file src="window_title.png" />
+    <file src="selectionScreenID24.jpg" />
+    <file src="selectionScreenID25.jpg" />
+    <file src="selectionScreenID26.jpg" />
+    <file src="cartwheel.otf" />
+</meta>

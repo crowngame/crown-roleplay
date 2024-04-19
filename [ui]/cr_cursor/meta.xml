@@ -1,0 +1,13 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+    <script src="client.lua" type="client" cache="false"/>
+
+    <file src="assets/arrow.png"/>
+    <file src="assets/hand.png"/>
+    <file src="assets/text.png"/>
+
+	<export function="setPointer" type="client"/>
+    <oop>true</oop>
+</meta>

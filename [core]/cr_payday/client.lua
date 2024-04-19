@@ -1,0 +1,6 @@
+addEvent("payday.playSound", true)
+addEventHandler("payday.playSound", root, function()
+	local randomNumber = math.random(1, 9)
+	local sound = playSound("sounds/" .. randomNumber .. ".mp3")   
+	setSoundVolume(sound, 0.5)
+end)

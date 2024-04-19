@@ -1,0 +1,6 @@
+addEvent("fixRecon", true)
+addEventHandler("fixRecon", root, function(element)
+	setElementDimension(client, getElementDimension(element))
+	setElementInterior(client, getElementInterior(element))
+	setCameraInterior(client, getElementInterior(element))
+end)

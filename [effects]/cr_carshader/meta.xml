@@ -1,0 +1,12 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<script src="client.lua" type="client" cache="false"/>
+	
+	<file src="car_paint.fx" type="client"/>
+	<file src="mta-helper.fx" type="client"/>
+	
+	<file src="images/smallnoise3d.dds" type="client"/>
+	<file src="images/cube_env256.dds" type="client"/>
+</meta>

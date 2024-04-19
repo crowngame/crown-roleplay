@@ -1,0 +1,81 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+    <info author="Crown Roleplay Scripting Team" type="script" description="Spike System"/>
+    <min_mta_version server="1.3.4-0.00000" client="1.5.6-9.18728"></min_mta_version>
+    
+    <script src="s_job_system.lua" type="server"/>
+    <script src="c_job_system.lua" type="client" cache="false"/>
+    
+    <script src="c_streelcleaner.lua" type="client" cache="false"/>
+    
+    <script src="s_job_framework.lua" type="server"/>
+    <script src="c_job_framework.lua" type="client" cache="false"/>
+    
+    <script src="alkol/s_alcohol.lua" type="server"/>
+    <script src="alkol/c_alcohol.lua" type="client" cache="false"/>
+	
+	<script src="ambulance/g_ambulance.lua" type="shared" cache="false"/>
+	<script src="ambulance/s_ambulance.lua" type="server" cache="false"/>
+	<script src="ambulance/c_ambulance.lua" type="client" cache="false"/>
+
+    <script src="turist/c_turist.lua" type="client" cache="false"/>
+    <script src="turist/s_turist.lua" type="server"/>
+    <script src="turist/server.lua" type="server"/>
+	
+	<file src="ambulance/files/hasta.png"/>
+	<file src="ambulance/files/hastane.png"/>
+    
+    <script src="thetrucker/s_thetrucker.lua" type="server"/>
+    <script src="thetrucker/c_thetrucker.lua" type="client" cache="false"/>
+    
+    <script src="cigaratte/s_cigar.lua" type="server"/>
+    <script src="cigaratte/c_cigar.lua" type="client" cache="false"/>
+    
+    <script src="stone/s_stone.lua" type="server"/>
+    <script src="stone/c_stone.lua" type="client" cache="false"/>
+    
+    <map src="fishing/balik-system-map/balik-system-map.map" dimension="0"></map>
+    <script src="fishing/balik-system-map/mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="fishing/balik-system-map/mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+    <script src="fishing/s_fishing_job.lua" type="server"/>
+    
+    <script src="photographer/s_photographer_job.lua" type="server"/>
+    <script src="photographer/c_photographer_job.lua" type="client" cache="false"/>
+    
+    <script src="mechanic/s_mechanic_job.lua" type="server"/>
+    <script src="mechanic/s_mechanic_previews.lua" type="server"/>
+    <script src="mechanic/c_mechanic_job.lua" type="client" cache="false"/>
+    
+    <script src="taxi/s_taxi_job.lua" type="server"/>
+    <script src="taxi/c_taxi_job.lua" type="client" cache="false"/>
+	
+	<script src="taximeter/g_taximeter.lua" type="server"/>
+    <script src="taximeter/g_taximeter.lua" type="client" cache="false"/>
+    <script src="taximeter/s_taximeter.lua" type="server"/>
+    <script src="taximeter/c_taximeter.lua" type="client" cache="false"/>
+    <file src="taximeter/images/base_driver.png"/>
+    <file src="taximeter/images/base_pax.png"/>
+    <file src="taximeter/images/btn.png"/>
+    <file src="taximeter/images/btn_on.png"/>
+    <file src="taximeter/images/btn_active.png"/>
+   
+    <script src="trucker1/g_truck1_routes.lua" type="client" cache="false"/>
+    <script src="trucker1/g_truck1_routes.lua" type="server"/>
+    <script src="trucker1/c_truck1_job.lua" type="client" cache="false"/>
+    <script src="trucker1/s_truck1_job.lua" type="server"/>
+    
+    <script src="trash/c_trash.lua" type="client" cache="false"/>
+    <script src="trash/s_trash.lua" type="server"/>
+    
+    <script src="locksmith/s_locksmith_job.lua" type="server"/>
+    <script src="locksmith/c_locksmith_job.lua" type="client" cache="false"/>
+    <export function="fetchJobInfoForOnePlayer" type="server"/>
+    
+    <script src="jobs_g.lua" type="client" cache="false"/>
+    <script src="jobs_g.lua" type="server"/>
+	
+    <export function="getJobTitleFromID" type="server"/>
+    <export function="getJobTitleFromID" type="client"/>
+</meta>

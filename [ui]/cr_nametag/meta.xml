@@ -1,0 +1,159 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<script src="c_editor.lua" type="client" cache="false"/>
+	<script src="c_nametag.lua" type="client" cache="false"/>
+	<script src="s_icon.lua" type="server"/>
+
+    <file src="images/icons/badge.png"/>
+    <file src="images/icons/blindfold.png"/>
+    <file src="images/icons/microphone.png"/>
+    <file src="images/icons/phone.png"/>
+    <file src="images/icons/writing.png"/>
+    <file src="images/icons/seatbelt.png"/>
+    <file src="images/icons/window.png"/>
+    <file src="images/icons/handcuffs.png"/>
+    <file src="images/icons/cigarette.png"/>
+    <file src="images/icons/helmet.png"/>
+    <file src="images/icons/gasmask.png"/>
+
+    <file src="images/icons/youtuber.png"/>
+    <file src="images/icons/rp_plus.png"/>
+
+    <file src="images/icons/vip1.png"/>
+    <file src="images/icons/vip2.png"/>
+    <file src="images/icons/vip3.png"/>
+    <file src="images/icons/vip4.png"/>
+    <file src="images/icons/vip5.png"/>
+
+    <file src="images/icons/donater1.png"/>
+    <file src="images/icons/donater2.png"/>
+    <file src="images/icons/donater3.png"/>
+    <file src="images/icons/donater4.png"/>
+    <file src="images/icons/donater5.png"/>
+
+    <file src="images/icons/duty/helper.png"/>
+    <file src="images/icons/duty/1.png"/>
+    <file src="images/icons/duty/2.png"/>
+    <file src="images/icons/duty/3.png"/>
+    <file src="images/icons/duty/4.png"/>
+    <file src="images/icons/duty/5.png"/>
+    <file src="images/icons/duty/6.png"/>
+    <file src="images/icons/duty/7.png"/>
+    <file src="images/icons/duty/8.png"/>
+    <file src="images/icons/duty/9.png"/>
+    <file src="images/icons/duty/10.png"/>
+    <file src="images/icons/duty/11.png"/>
+    <file src="images/icons/duty/12.png"/>
+
+    <file src="images/icons/country/0.png"/>
+	<file src="images/icons/country/-0.png"/>
+	<file src="images/icons/country/1.png"/>
+	<file src="images/icons/country/-1.png"/>
+	<file src="images/icons/country/2.png"/>
+	<file src="images/icons/country/-2.png"/>
+	<file src="images/icons/country/3.png"/>
+	<file src="images/icons/country/-3.png"/>
+	<file src="images/icons/country/4.png"/>
+	<file src="images/icons/country/-4.png"/>
+	<file src="images/icons/country/5.png"/>
+	<file src="images/icons/country/-5.png"/>
+	<file src="images/icons/country/6.png"/>
+	<file src="images/icons/country/-6.png"/>
+	<file src="images/icons/country/7.png"/>
+	<file src="images/icons/country/-7.png"/>
+	<file src="images/icons/country/8.png"/>
+	<file src="images/icons/country/-8.png"/>
+	<file src="images/icons/country/9.png"/>
+	<file src="images/icons/country/-9.png"/>
+	<file src="images/icons/country/10.png"/>
+	<file src="images/icons/country/-10.png"/>
+	<file src="images/icons/country/11.png"/>
+	<file src="images/icons/country/-11.png"/>
+	<file src="images/icons/country/12.png"/>
+	<file src="images/icons/country/-12.png"/>
+	<file src="images/icons/country/13.png"/>
+	<file src="images/icons/country/-13.png"/>
+	<file src="images/icons/country/14.png"/>
+	<file src="images/icons/country/-14.png"/>
+	<file src="images/icons/country/15.png"/>
+	<file src="images/icons/country/-15.png"/>
+	<file src="images/icons/country/16.png"/>
+	<file src="images/icons/country/-16.png"/>
+	<file src="images/icons/country/17.png"/>
+	<file src="images/icons/country/-17.png"/>
+	<file src="images/icons/country/18.png"/>
+	<file src="images/icons/country/-18.png"/>
+	<file src="images/icons/country/19.png"/>
+	<file src="images/icons/country/-19.png"/>
+	<file src="images/icons/country/20.png"/>
+	<file src="images/icons/country/-20.png"/>
+	<file src="images/icons/country/21.png"/>
+	<file src="images/icons/country/-21.png"/>
+	<file src="images/icons/country/22.png"/>
+	<file src="images/icons/country/-22.png"/>
+	<file src="images/icons/country/23.png"/>
+	<file src="images/icons/country/-23.png"/>
+	<file src="images/icons/country/24.png"/>
+	<file src="images/icons/country/-24.png"/>
+	<file src="images/icons/country/25.png"/>
+	<file src="images/icons/country/-25.png"/>
+	<file src="images/icons/country/26.png"/>
+	<file src="images/icons/country/-26.png"/>
+	<file src="images/icons/country/27.png"/>
+	<file src="images/icons/country/-27.png"/>
+	<file src="images/icons/country/28.png"/>
+	<file src="images/icons/country/-28.png"/>
+	<file src="images/icons/country/29.png"/>
+	<file src="images/icons/country/-29.png"/>
+	<file src="images/icons/country/30.png"/>
+	<file src="images/icons/country/-30.png"/>
+	<file src="images/icons/country/31.png"/>
+	<file src="images/icons/country/-31.png"/>
+	<file src="images/icons/country/32.png"/>
+	<file src="images/icons/country/-32.png"/>
+	<file src="images/icons/country/33.png"/>
+	<file src="images/icons/country/-33.png"/>
+	<file src="images/icons/country/34.png"/>
+	<file src="images/icons/country/-34.png"/>
+	<file src="images/icons/country/35.png"/>
+	<file src="images/icons/country/-35.png"/>
+	<file src="images/icons/country/36.png"/>
+	<file src="images/icons/country/-36.png"/>
+	<file src="images/icons/country/37.png"/>
+	<file src="images/icons/country/-37.png"/>
+	<file src="images/icons/country/38.png"/>
+	<file src="images/icons/country/-38.png"/>
+	<file src="images/icons/country/39.png"/>
+	<file src="images/icons/country/-39.png"/>
+	<file src="images/icons/country/40.png"/>
+	<file src="images/icons/country/-40.png"/>
+	<file src="images/icons/country/41.png"/>
+	<file src="images/icons/country/-41.png"/>
+	<file src="images/icons/country/42.png"/>
+	<file src="images/icons/country/-42.png"/>
+	<file src="images/icons/country/43.png"/>
+	<file src="images/icons/country/-43.png"/>
+	<file src="images/icons/country/44.png"/>
+	<file src="images/icons/country/-44.png"/>
+	<file src="images/icons/country/45.png"/>
+	<file src="images/icons/country/-45.png"/>
+	<file src="images/icons/country/46.png"/>
+	<file src="images/icons/country/-46.png"/>
+	<file src="images/icons/country/47.png"/>
+	<file src="images/icons/country/-47.png"/>
+	<file src="images/icons/country/48.png"/>
+	<file src="images/icons/country/-48.png"/>
+	<file src="images/icons/country/49.png"/>
+	<file src="images/icons/country/-49.png"/>
+	
+	<file src="images/icons/tags/1.png"/>
+    <file src="images/icons/tags/2.png"/>
+    <file src="images/icons/tags/3.png"/>
+    <file src="images/icons/tags/4.png"/>
+    <file src="images/icons/tags/5.png"/>
+    <file src="images/icons/tags/6.png"/>
+	
+	<download_priority_group>995</download_priority_group>
+</meta>

@@ -1,0 +1,31 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<script src="shared/musics.lua" type="shared" cache="false"/>
+	
+	<script src="client/main.lua" type="client" cache="false"/>
+	
+	<script src="client/client.lua" type="client" cache="false"/>
+	<script src="server/server.lua" type="server"/>
+
+	<script src="client/character.lua" type="client" cache="false"/>
+	
+	<script src="client/country.lua" type="client" cache="false"/>
+	<script src="server/country.lua" type="server"/>
+
+	<script src="client/ban.lua" type="client" cache="false"/>
+	<script src="client/serial.lua" type="client" cache="false"/>
+	
+	<script src="server/password.lua" type="server"/>
+	
+	<file src="images/loading.png"/>
+	<file src="images/vignette.png"/>
+	<file src="images/arrowRight.png"/>
+	<file src="images/arrowLeft.png"/>
+	<file src="images/female.png"/>
+	<file src="images/male.png"/>
+	<file src="images/discord.png"/>
+
+	<oop>true</oop>
+</meta>

@@ -1,0 +1,105 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<script src="g_integration.lua" type="server"/>
+	<script src="g_integration.lua" type="client"/>
+	
+	<script src="s_forums.lua" type="server"/>
+	
+	<export function="getStaffTitle" type="server"/>
+	<export function="getStaffTitle" type="client"/>
+	
+	<export function="getStaffTitles" type="server"/>
+	<export function="getStaffTitles" type="client"/>
+	
+	<export function="isPlayerDirector" type="server"/>
+	<export function="isPlayerDirector" type="client"/>
+	
+	<export function="isPlayerDeveloper" type="server"/>
+	<export function="isPlayerDeveloper" type="client"/>
+	
+	<export function="isPlayerHeadAdministrator" type="server"/>
+	<export function="isPlayerHeadAdministrator" type="client"/>
+	
+	<export function="isPlayerAdministrator" type="server"/>
+	<export function="isPlayerAdministrator" type="client"/>
+	
+	<export function="isPlayerCommunityManager" type="server"/>
+	<export function="isPlayerCommunityManager" type="client"/>
+	
+	<export function="isPlayerManager" type="server"/>
+	<export function="isPlayerManager" type="client"/>
+	
+	<export function="isPlayerManagement" type="server"/>
+	<export function="isPlayerManagement" type="client"/>
+	
+	<export function="isPlayerHeadAdmin" type="server"/>
+	<export function="isPlayerHeadAdmin" type="client"/>
+	
+	<export function="isPlayerLeadAdmin" type="server"/>
+	<export function="isPlayerLeadAdmin" type="client"/>
+	
+	<export function="isPlayerSeniorAdmin" type="server"/>
+	<export function="isPlayerSeniorAdmin" type="client"/>
+	
+	<export function="isPlayerGameAdmin" type="server"/>
+	<export function="isPlayerGameAdmin" type="client"/>
+	
+	<export function="isPlayerTrialAdmin" type="server"/>
+	<export function="isPlayerTrialAdmin" type="client"/>
+	
+	<export function="isPlayerHelper" type="server"/>
+	<export function="isPlayerHelper" type="client"/>
+	
+	<export function="isPlayerHelperManager" type="server"/>
+	<export function="isPlayerHelperManager" type="client"/>
+	
+	<export function="isPlayerTester" type="server"/>
+	<export function="isPlayerTester" type="client"/>
+	
+	<export function="isPlayerScripter" type="server"/>
+	<export function="isPlayerScripter" type="client"/>
+	
+	<export function="isPlayerLeadScripter" type="server"/>
+	<export function="isPlayerLeadScripter" type="client"/>
+	
+	<export function="isPlayerVCTMember" type="server"/>
+	<export function="isPlayerVCTMember" type="client"/>
+	
+	<export function="isPlayerVehicleConsultant" type="server"/>
+	<export function="isPlayerVehicleConsultant" type="client"/>
+	
+	<export function="isPlayerMappingTeamMember" type="server"/>
+	<export function="isPlayerMappingTeamMember" type="client"/>
+	
+	<export function="isPlayerMappingTeamLeader" type="server"/>
+	<export function="isPlayerMappingTeamLeader" type="client"/>
+	
+	<export function="isPlayerStaff" type="server"/>
+	<export function="isPlayerStaff" type="client"/>
+	
+	<export function="getAdminGroups" type="server"/>
+	<export function="getAdminGroups" type="client"/>
+	
+	<export function="isPlayerIA" type="server"/>
+	<export function="isPlayerIA" type="client"/>
+	
+	<export function="getAdminTitles" type="server"/>
+	<export function="getAdminTitles" type="client"/>
+	
+	<export function="getHelperNumber" type="server"/>
+	<export function="getHelperNumber" type="client"/>
+	
+	<export function="getAuxiliaryStaffNumbers" type="server"/>
+	<export function="getAuxiliaryStaffNumbers" type="client"/>
+	
+	<export function="getAdminStaffNumbers" type="server"/>
+	<export function="getAdminStaffNumbers" type="client"/>
+	
+	<export function="getAdminLevelTitle" type="server"/>
+	<export function="getAdminLevelTitle" type="client"/>
+	
+	<export function="getAuthorizedStaffs" type="server"/>
+	<export function="getAuthorizedStaffs" type="client"/>
+</meta>	

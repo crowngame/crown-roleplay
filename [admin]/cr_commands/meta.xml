@@ -1,0 +1,12 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="server.lua" type="server"/>
+	
+	<file src="images/nah.png"/>
+	<file src="sounds/saplak.mp3"/>
+	
+	<oop>true</oop>
+</meta>

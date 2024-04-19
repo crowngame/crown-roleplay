@@ -1,0 +1,9 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+<info author="Freezy" type="script" version="1.0.0" />
+        <script src="parachute.lua"/>
+        <script src="parachute_cl.lua" type="client"/>
+	<file src="parachuteopen.mp3"/>
+</meta>

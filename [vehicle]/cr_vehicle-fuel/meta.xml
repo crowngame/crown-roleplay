@@ -1,0 +1,9 @@
+<meta>
+	<script src="___generated___/checker.lua" type="client" cache="false"/>
+	<script src="___generated___/bundle.lua" type="client" cache="false"/>
+	
+	<script src="server.lua" type="server"/>
+	<script src="shared.lua" type="shared"/>
+	
+	<export function="getMaxFuel" type="shared"/>
+</meta>

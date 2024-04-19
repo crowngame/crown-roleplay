@@ -1,0 +1,6 @@
+﻿addEventHandler("onClientResourceStart", resourceRoot, function()
+    local txd = engineLoadTXD("object/phone.txd")
+    engineImportTXD(txd, 330)
+    local dff = engineLoadDFF("object/phone.dff", 330)
+    engineReplaceModel(dff, 330)
+end)
